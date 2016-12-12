@@ -1,1 +1,1 @@
-This is my repository for the Data Science course at General Assembly. I will save all my practice code here!
+This is my repository for the Data Science course at General Assembly.
